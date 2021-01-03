@@ -1,11 +1,11 @@
 <?php
     require 'includes/config.php';
 
-    if(){
+    if(isset($_SESSION['user_email'])){
 
     }
     else{
-        
+
     }
 ?>
 <!DOCTYPE html>
