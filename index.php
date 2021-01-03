@@ -1,5 +1,12 @@
 <?php
     require 'includes/config.php';
+
+    if(){
+
+    }
+    else{
+        
+    }
 ?>
 <!DOCTYPE html>
 <html lang="en">
